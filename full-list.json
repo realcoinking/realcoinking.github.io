@@ -1482,7 +1482,7 @@
       "issuance":"50",
       "artist":"Aishyrine ",
       "link":"https://xchain.io/asset/ORDCARD",
-      "image":null
+      "image":"https://i.imgur.com/dOCKE0g.png"
    },
    {
       "series":"8",
@@ -1661,7 +1661,7 @@
       "card":"KAORIFAUX",
       "issuance":"60",
       "artist":"Psycopyro",
-      "link":"KAORIFAUX Asset Information (xchain.io)",
+      "link":"https://xchain.io/asset/KAORIFAUX",
       "image":"https://hms5jzr6hls53i2wrqqunm4ppuiedusmdglb7ybs7mg6uicviffq.arweave.net/OyXU5j465d2jVowhRrOPfRBB0kwZlh_gMvsN6iBVQUs/kxhedi_image.jpg"
    },
    {
@@ -1698,7 +1698,7 @@
       "issuance":"14",
       "artist":"Cornholio the Great",
       "link":"https://xchain.io/asset/CCSATOSHI",
-      "image":null
+      "image":"https://i.imgur.com/dOCKE0g.png"
    },
    {
       "series":"10",
@@ -1715,7 +1715,7 @@
       "card":"BONKSCALL",
       "issuance":"99",
       "artist":"yourfren",
-      "link":"https://xchain.io/asset/BONKSCALLL",
+      "link":"https://xchain.io/asset/BONKSCALL",
       "image":"https://erzakim6xj6kusykipj6z45lsrqid4po76iiahkqizucqgo2lb7q.arweave.net/JHIFIZ66fKpLCkPT7POrlGCB8e7_kIAdUEZoKBnaWH8/vm58kb_image.jpeg"
    },
    {
@@ -2203,5 +2203,33 @@
       "artist":"@MemeKingArt",
       "link":"http://xchain.io/asset/FAUXMOTHER",
       "image":"https://i.imgur.com/nP2jXeB.jpg"
-   }
+   },
+   {
+      "series":"12",
+      "card":"15",
+      "card":"FAUXSPY",
+      "issuance":"50",
+      "artist":"@RAHVOART",
+      "link":"https://xchain.io/asset/FAUXSPY",
+      "image":"https://arweave.net/KWuQulPowMs7H8r3BOcwqLsPrwLOs4_Jt8NVTB8n_H4/wfkoms_image.png"
+   },
+   {
+      "series":"12",
+      "card":"16",
+      "card":"ROBOKEKPEPEX",
+      "issuance":"50",
+      "artist":"br salva",
+      "link":"https://xchain.io/asset/ROBOKEKPEPEX",
+      "image":"https://arweave.net/QyUbIJ_1EPv_8KnI-40hM3wq6mlt9p_7daPzIj4U-Og/ov58nt_image.gif"
+   },
+   {
+      "series":"12",
+      "card":"17",
+      "card":"REINCOINATE",
+      "issuance":"1000",
+      "artist":"c'oinking",
+      "link":"http://xchain.io/asset/REINCOINATE",
+      "image":"https://i.imgur.com/dOCKE0g.png"
+   },
 ]
+
