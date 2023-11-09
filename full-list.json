@@ -2231,4 +2231,13 @@
       "link":"http://xchain.io/asset/REINCOINATE",
       "image":"https://i.imgur.com/LQwjynO.png"
    },
+   {
+      "series":"12",
+      "card":"18",
+      "asset":"TEST",
+      "issuance":"1000",
+      "artist":"c'oinking",
+      "link":"http://xchain.io/asset/REINCOINATE",
+      "image":"https://i.imgur.com/LQwjynO.png"
+   },
 ]
