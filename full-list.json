@@ -2,7 +2,7 @@
    {
       "series":"1",
       "card":"1",
-      "card":"IRLFDCARD",
+      "asset":"IRLFDCARD",
       "issuance":"300.00000000",
       "artist":"coinking",
       "link":"https://xchain.io/asset/IRLFDCARD",
@@ -11,7 +11,7 @@
    {
       "series":"1",
       "card":"2",
-      "card":"STSHRDX",
+      "asset":"STSHRDX",
       "issuance":"200",
       "artist":"Herckeim",
       "link":"https://xchain.io/asset/STSHRDX",
@@ -20,7 +20,7 @@
    {
       "series":"1",
       "card":"3",
-      "card":"THREECHARMZ",
+      "asset":"THREECHARMZ",
       "issuance":"133",
       "artist":"thr33som3s",
       "link":"https://xchain.io/asset/THREECHARMZ",
@@ -29,7 +29,7 @@
    {
       "series":"1",
       "card":"4",
-      "card":"FAUXSAYLOR",
+      "asset":"FAUXSAYLOR",
       "issuance":"100",
       "artist":"Mallery",
       "link":"https://xchain.io/asset/FAUXSAYLOR",
@@ -38,7 +38,7 @@
    {
       "series":"1",
       "card":"5",
-      "card":"PARRAIN",
+      "asset":"PARRAIN",
       "issuance":"69",
       "artist":"wabi",
       "link":"https://xchain.io/asset/PARRAIN",
@@ -47,7 +47,7 @@
    {
       "series":"1",
       "card":"6",
-      "card":"SOGWAR",
+      "asset":"SOGWAR",
       "issuance":"80",
       "artist":"ROCHIGG",
       "link":"https://xchain.io/asset/SOGWAR",
@@ -56,7 +56,7 @@
    {
       "series":"1",
       "card":"7",
-      "card":"MANDELKING",
+      "asset":"MANDELKING",
       "issuance":"80",
       "artist":"Jonny Johnsonson",
       "link":"https://xchain.io/asset/MANDELKING",
@@ -65,7 +65,7 @@
    {
       "series":"1",
       "card":"8",
-      "card":"YACHTCARD",
+      "asset":"YACHTCARD",
       "issuance":"100",
       "artist":"Griffin",
       "link":"https://xchain.io/asset/YACHTCARD",
@@ -74,7 +74,7 @@
    {
       "series":"1",
       "card":"9",
-      "card":"EMPENPEN",
+      "asset":"EMPENPEN",
       "issuance":"50",
       "artist":"tomopen",
       "link":"https://xchain.io/asset/EMPENPEN",
@@ -83,7 +83,7 @@
    {
       "series":"1",
       "card":"10",
-      "card":"DARKSCOPE",
+      "asset":"DARKSCOPE",
       "issuance":"66",
       "artist":"FWD",
       "link":"https://xchain.io/asset/DARKSCOPE",
@@ -92,7 +92,7 @@
    {
       "series":"1",
       "card":"11",
-      "card":"THEENIGMA",
+      "asset":"THEENIGMA",
       "issuance":"100",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THEENIGMA",
@@ -101,7 +101,7 @@
    {
       "series":"1",
       "card":"12",
-      "card":"FAUXTOSHI",
+      "asset":"FAUXTOSHI",
       "issuance":"200",
       "artist":"OurEverydayEarth",
       "link":"https://www.xchain.io/asset/FAUXTOSHI",
@@ -110,7 +110,7 @@
    {
       "series":"1",
       "card":"13",
-      "card":"SOURDOGE",
+      "asset":"SOURDOGE",
       "issuance":"100",
       "artist":"kdh0k",
       "link":"https://xchain.io/asset/SOURDOGE",
@@ -119,7 +119,7 @@
    {
       "series":"1",
       "card":"14",
-      "card":"FAUXELON",
+      "asset":"FAUXELON",
       "issuance":"69",
       "artist":"Psycopyro",
       "link":"https://xchain.io/asset/FAUXELON",
@@ -128,7 +128,7 @@
    {
       "series":"1",
       "card":"15",
-      "card":"BEARSOUL",
+      "asset":"BEARSOUL",
       "issuance":"100",
       "artist":"rarejay",
       "link":"https://xchain.io/asset/BEARSOUL",
@@ -137,7 +137,7 @@
    {
       "series":"1",
       "card":"16",
-      "card":"PHOENIXCD",
+      "asset":"PHOENIXCD",
       "issuance":"99",
       "artist":"Tasha Moon",
       "link":"https://xchain.io/asset/PHOENIXCD",
@@ -146,7 +146,7 @@
    {
       "series":"1",
       "card":"17",
-      "card":"FAUXKACHU",
+      "asset":"FAUXKACHU",
       "issuance":"80",
       "artist":"Pifu",
       "link":"https://xchain.io/asset/FAUXKACHU",
@@ -155,7 +155,7 @@
    {
       "series":"1",
       "card":"18",
-      "card":"MYTHOSSOO",
+      "asset":"MYTHOSSOO",
       "issuance":"400",
       "artist":"Abbate",
       "link":"https://xchain.io/asset/MYTHOSSOO",
@@ -164,7 +164,7 @@
    {
       "series":"1",
       "card":"19",
-      "card":"SATOSHISWORD",
+      "asset":"SATOSHISWORD",
       "issuance":"300",
       "artist":"REMSTER",
       "link":"https://xchain.io/asset/SATOSHISWORD",
@@ -173,7 +173,7 @@
    {
       "series":"1",
       "card":"20",
-      "card":"GOTHCHAINER",
+      "asset":"GOTHCHAINER",
       "issuance":"69",
       "artist":"JB",
       "link":"https://xchain.io/asset/GOTHCHAINER",
@@ -182,7 +182,7 @@
    {
       "series":"1",
       "card":"21",
-      "card":"FAUXDINGCARD",
+      "asset":"FAUXDINGCARD",
       "issuance":"52.00000000",
       "artist":"Collab",
       "link":"https://xchain.io/asset/FAUXDINGCARD",
@@ -191,7 +191,7 @@
    {
       "series":"2",
       "card":"1",
-      "card":"TIRAMOUSPAF",
+      "asset":"TIRAMOUSPAF",
       "issuance":"300",
       "artist":"Shaban Shaame",
       "link":"https://xchain.io/asset/TIRAMOUSPAF",
@@ -200,7 +200,7 @@
    {
       "series":"2",
       "card":"2",
-      "card":"CONCEPTCARD",
+      "asset":"CONCEPTCARD",
       "issuance":"200",
       "artist":"Rinaldo Wirz",
       "link":"https://xchain.io/asset/CONCEPTCARD",
@@ -209,7 +209,7 @@
    {
       "series":"2",
       "card":"3",
-      "card":"HEARTSONFIRE",
+      "asset":"HEARTSONFIRE",
       "issuance":"55",
       "artist":"th33som3s",
       "link":"https://xchain.io/asset/HEARTSONFIRE",
@@ -218,7 +218,7 @@
    {
       "series":"2",
       "card":"4",
-      "card":"NINJASARU",
+      "asset":"NINJASARU",
       "issuance":"59",
       "artist":"simsa",
       "link":"https://xchain.io/asset/NINJASARU",
@@ -227,7 +227,7 @@
    {
       "series":"2",
       "card":"5",
-      "card":"SATOSHABAN",
+      "asset":"SATOSHABAN",
       "issuance":"100",
       "artist":"Rey",
       "link":"https://xchain.io/asset/SATOSHABAN",
@@ -236,7 +236,7 @@
    {
       "series":"2",
       "card":"6",
-      "card":"HALCARD",
+      "asset":"HALCARD",
       "issuance":"50",
       "artist":"equ1l1br1um_ & soulmonsta",
       "link":"https://xchain.io/asset/HALCARD",
@@ -245,7 +245,7 @@
    {
       "series":"2",
       "card":"7",
-      "card":"WUKONGBTC",
+      "asset":"WUKONGBTC",
       "issuance":"100",
       "artist":"Pifu",
       "link":"https://xchain.io/asset/WUKONGBTC",
@@ -254,7 +254,7 @@
    {
       "series":"2",
       "card":"8",
-      "card":"FAUXLEGENDS",
+      "asset":"FAUXLEGENDS",
       "issuance":"99",
       "artist":"D. Shorty",
       "link":"https://xchain.io/asset/FAUXLEGENDS",
@@ -263,7 +263,7 @@
    {
       "series":"2",
       "card":"9",
-      "card":"FAUXKING",
+      "asset":"FAUXKING",
       "issuance":"69",
       "artist":"Mayari_mun",
       "link":"https://xchain.io/asset/FAUXKING",
@@ -272,7 +272,7 @@
    {
       "series":"2",
       "card":"10",
-      "card":"FAUXLUNA",
+      "asset":"FAUXLUNA",
       "issuance":"77",
       "artist":"Mandarinemarie",
       "link":"https://xchain.io/asset/FAUXLUNA",
@@ -281,7 +281,7 @@
    {
       "series":"2",
       "card":"11",
-      "card":"HUNTRNONYMUS",
+      "asset":"HUNTRNONYMUS",
       "issuance":"60",
       "artist":"Billionmindkev",
       "link":"https://xchain.io/asset/HUNTRNONYMUS",
@@ -290,7 +290,7 @@
    {
       "series":"2",
       "card":"12",
-      "card":"KEKMINER",
+      "asset":"KEKMINER",
       "issuance":"70",
       "artist":"Crypto Hunks",
       "link":"https://xchain.io/asset/KEKMINER",
@@ -299,7 +299,7 @@
    {
       "series":"2",
       "card":"13",
-      "card":"FAUXHERO",
+      "asset":"FAUXHERO",
       "issuance":"55",
       "artist":"Daveartnft ",
       "link":"https://xchain.io/asset/FAUXHERO ",
@@ -308,7 +308,7 @@
    {
       "series":"2",
       "card":"14",
-      "card":"ETHERYUMCARD",
+      "asset":"ETHERYUMCARD",
       "issuance":"100",
       "artist":"Killakonnosaur / Vogelmann",
       "link":"https://xchain.io/asset/ETHERYUMCARD",
@@ -317,7 +317,7 @@
    {
       "series":"2",
       "card":"15",
-      "card":"SEROFETHER",
+      "asset":"SEROFETHER",
       "issuance":"80",
       "artist":"simsa",
       "link":"https://xchain.io/asset/SEROFETHER",
@@ -326,7 +326,7 @@
    {
       "series":"2",
       "card":"16",
-      "card":"HASHCARD",
+      "asset":"HASHCARD",
       "issuance":"66",
       "artist":"Abstract Mirror",
       "link":"https://xchain.io/asset/HASHCARD",
@@ -335,7 +335,7 @@
    {
       "series":"2",
       "card":"17",
-      "card":"FAUXCHOSEN",
+      "asset":"FAUXCHOSEN",
       "issuance":"55",
       "artist":"kapirasong.dayami",
       "link":"https://xchain.io/asset/FAUXCHOSEN",
@@ -344,7 +344,7 @@
    {
       "series":"2",
       "card":"18",
-      "card":"FAUXMSTR",
+      "asset":"FAUXMSTR",
       "issuance":"65",
       "artist":"Mitchi",
       "link":"https://xchain.io/asset/FAUXMSTR",
@@ -353,7 +353,7 @@
    {
       "series":"2",
       "card":"19",
-      "card":"SILVANUS",
+      "asset":"SILVANUS",
       "issuance":"65",
       "artist":"Em",
       "link":"https://xchain.io/asset/SILVANUS",
@@ -362,7 +362,7 @@
    {
       "series":"2",
       "card":"20",
-      "card":"NITSABOBO",
+      "asset":"NITSABOBO",
       "issuance":"55",
       "artist":"Jahair",
       "link":"https://xchain.io/asset/NITSABOBO",
@@ -371,7 +371,7 @@
    {
       "series":"2",
       "card":"21",
-      "card":"VANGOSHI",
+      "asset":"VANGOSHI",
       "issuance":"5.00000000",
       "artist":"coinking",
       "link":"https://xchain.io/asset/VANGOSHI",
@@ -380,7 +380,7 @@
    {
       "series":"3",
       "card":"1",
-      "card":"LSDFDCARD",
+      "asset":"LSDFDCARD",
       "issuance":"69",
       "artist":"Mallery",
       "link":"https://xchain.io/asset/LSDFDCARD",
@@ -389,7 +389,7 @@
    {
       "series":"3",
       "card":"2",
-      "card":"BRUTALRULER",
+      "asset":"BRUTALRULER",
       "issuance":"105",
       "artist":"Herckeim",
       "link":"https://xchain.io/asset/BRUTALRULER",
@@ -398,7 +398,7 @@
    {
       "series":"3",
       "card":"3",
-      "card":"THREEBYTHREE",
+      "asset":"THREEBYTHREE",
       "issuance":"55",
       "artist":"thr33som3s",
       "link":"https://xchain.io/asset/THREEBYTHREE",
@@ -407,7 +407,7 @@
    {
       "series":"3",
       "card":"4",
-      "card":"QUANTUMUN",
+      "asset":"QUANTUMUN",
       "issuance":"5000",
       "artist":"JR",
       "link":"https://xchain.io/asset/QUANTUMUN",
@@ -416,7 +416,7 @@
    {
       "series":"3",
       "card":"5",
-      "card":"GRAILHUNTER",
+      "asset":"GRAILHUNTER",
       "issuance":"100",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/GRAILHUNTER",
@@ -425,7 +425,7 @@
    {
       "series":"3",
       "card":"6",
-      "card":"CPALCHEMIST",
+      "asset":"CPALCHEMIST",
       "issuance":"100",
       "artist":"WHOISIT",
       "link":"https://xchain.io/asset/CPALCHEMIST",
@@ -434,7 +434,7 @@
    {
       "series":"3",
       "card":"7",
-      "card":"MAGICIANCARD",
+      "asset":"MAGICIANCARD",
       "issuance":"69",
       "artist":"Noosh",
       "link":"https://xchain.io/asset/MAGICIANCARD",
@@ -443,7 +443,7 @@
    {
       "series":"3",
       "card":"8",
-      "card":"FAUXWIZARD",
+      "asset":"FAUXWIZARD",
       "issuance":"69",
       "artist":"whatsinaname",
       "link":"https://xchain.io/asset/FAUXWIZARD",
@@ -452,7 +452,7 @@
    {
       "series":"3",
       "card":"9",
-      "card":"COUNTERWRATH",
+      "asset":"COUNTERWRATH",
       "issuance":"300",
       "artist":"D00MSDRE",
       "link":"https://xchain.io/asset/COUNTERWRATH",
@@ -461,7 +461,7 @@
    {
       "series":"3",
       "card":"10",
-      "card":"DRAGONFIRE",
+      "asset":"DRAGONFIRE",
       "issuance":"300",
       "artist":"DOGE-STYLE ",
       "link":"https://xchain.io/asset/DRAGONFIRE",
@@ -470,7 +470,7 @@
    {
       "series":"3",
       "card":"11",
-      "card":"GOLDENDRAGON",
+      "asset":"GOLDENDRAGON",
       "issuance":"99",
       "artist":"JohnDXB",
       "link":"https://xchain.io/asset/GOLDENDRAGON",
@@ -479,7 +479,7 @@
    {
       "series":"3",
       "card":"12",
-      "card":"FAUXCARNAGE",
+      "asset":"FAUXCARNAGE",
       "issuance":"60",
       "artist":"REMSTER",
       "link":"https://xchain.io/asset/FAUXCARNAGE",
@@ -488,7 +488,7 @@
    {
       "series":"3",
       "card":"13",
-      "card":"SHADIFAUX",
+      "asset":"SHADIFAUX",
       "issuance":"100",
       "artist":"Pifu",
       "link":"https://xchain.io/asset/SHADIFAUX",
@@ -497,7 +497,7 @@
    {
       "series":"3",
       "card":"14",
-      "card":"BOXOTREASURE",
+      "asset":"BOXOTREASURE",
       "issuance":"50",
       "artist":"tomopen",
       "link":"https://xchain.io/asset/BOXOTREASURE",
@@ -506,7 +506,7 @@
    {
       "series":"3",
       "card":"15",
-      "card":"FAUXRAREAPE",
+      "asset":"FAUXRAREAPE",
       "issuance":"100",
       "artist":"whatsinaname",
       "link":"https://xchain.io/asset/FAUXRAREAPE",
@@ -515,7 +515,7 @@
    {
       "series":"3",
       "card":"16",
-      "card":"PCKBRELLA",
+      "asset":"PCKBRELLA",
       "issuance":"50",
       "artist":"Seb Ngum",
       "link":"https://xchain.io/asset/PCKBRELLA",
@@ -524,7 +524,7 @@
    {
       "series":"3",
       "card":"17",
-      "card":"FLOONEY",
+      "asset":"FLOONEY",
       "issuance":"100",
       "artist":"Mike In Space",
       "link":"https://xchain.io/asset/FLOONEY",
@@ -533,7 +533,7 @@
    {
       "series":"3",
       "card":"18",
-      "card":"HODLFIST",
+      "asset":"HODLFIST",
       "issuance":"100",
       "artist":"Jahair",
       "link":"https://xchain.io/asset/HODLFIST",
@@ -542,7 +542,7 @@
    {
       "series":"3",
       "card":"19",
-      "card":"SOGOMOTO",
+      "asset":"SOGOMOTO",
       "issuance":"100",
       "artist":"Mallery",
       "link":"https://xchain.io/asset/SOGOMOTO",
@@ -551,7 +551,7 @@
    {
       "series":"3",
       "card":"20",
-      "card":"REALSATOSHI",
+      "asset":"REALSATOSHI",
       "issuance":"100",
       "artist":"rarejay",
       "link":"https://xchain.io/asset/REALSATOSHI",
@@ -560,7 +560,7 @@
    {
       "series":"3",
       "card":"21",
-      "card":"DARKSATOSHI",
+      "asset":"DARKSATOSHI",
       "issuance":"9",
       "artist":"DOGE-STYLE ",
       "link":"https://xchain.io/asset/DARKSATOSHI",
@@ -569,7 +569,7 @@
    {
       "series":"4",
       "card":"1",
-      "card":"MTCORN",
+      "asset":"MTCORN",
       "issuance":"52",
       "artist":"wabi",
       "link":"https://xchain.io/asset/MTCORN",
@@ -578,7 +578,7 @@
    {
       "series":"4",
       "card":"2",
-      "card":"BEARRATCD",
+      "asset":"BEARRATCD",
       "issuance":"69",
       "artist":"D. Shorty",
       "link":"https://xchain.io/asset/BEARRATCD",
@@ -587,7 +587,7 @@
    {
       "series":"4",
       "card":"3",
-      "card":"CARMERCHANT",
+      "asset":"CARMERCHANT",
       "issuance":"150",
       "artist":"TurtleLord",
       "link":"https://xchain.io/asset/CARMERCHANT",
@@ -596,7 +596,7 @@
    {
       "series":"4",
       "card":"4",
-      "card":"GENAUXFGLEAM",
+      "asset":"GENAUXFGLEAM",
       "issuance":"87",
       "artist":"Psycopyro",
       "link":"https://xchain.io/asset/GENAUXFGLEAM",
@@ -605,7 +605,7 @@
    {
       "series":"4",
       "card":"5",
-      "card":"FAUXVRAISOG",
+      "asset":"FAUXVRAISOG",
       "issuance":"100",
       "artist":"PITOOPI",
       "link":"https://xchain.io/asset/FAUXVRAISOG",
@@ -614,7 +614,7 @@
    {
       "series":"4",
       "card":"6",
-      "card":"FAUXMUSERATO",
+      "asset":"FAUXMUSERATO",
       "issuance":"69",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXMUSERATO",
@@ -623,7 +623,7 @@
    {
       "series":"4",
       "card":"7",
-      "card":"THEECLIPSE",
+      "asset":"THEECLIPSE",
       "issuance":"100",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THEECLIPSE",
@@ -632,7 +632,7 @@
    {
       "series":"4",
       "card":"8",
-      "card":"SPRTLINFLATE",
+      "asset":"SPRTLINFLATE",
       "issuance":"77",
       "artist":"Jahair",
       "link":"https://xchain.io/asset/SPRTLINFLATE",
@@ -641,7 +641,7 @@
    {
       "series":"4",
       "card":"9",
-      "card":"SOGGYMONEY",
+      "asset":"SOGGYMONEY",
       "issuance":"69",
       "artist":"Mallery",
       "link":"https://xchain.io/asset/SOGGYMONEY",
@@ -650,7 +650,7 @@
    {
       "series":"4",
       "card":"10",
-      "card":"CRYSTLMASTER",
+      "asset":"CRYSTLMASTER",
       "issuance":"150",
       "artist":"Wodan",
       "link":"https://xchain.io/asset/CRYSTLMASTER",
@@ -659,7 +659,7 @@
    {
       "series":"4",
       "card":"11",
-      "card":"SOGONONOKE",
+      "asset":"SOGONONOKE",
       "issuance":"69",
       "artist":"FWD",
       "link":"https://xchain.io/asset/SOGONONOKE",
@@ -668,7 +668,7 @@
    {
       "series":"4",
       "card":"12",
-      "card":"BOSSBABY",
+      "asset":"BOSSBABY",
       "issuance":"69",
       "artist":"Bimbayo1985",
       "link":"https://xchain.io/asset/BOSSBABY",
@@ -677,7 +677,7 @@
    {
       "series":"4",
       "card":"13",
-      "card":"BRDLSSCRN",
+      "asset":"BRDLSSCRN",
       "issuance":"100",
       "artist":"Ndhoz_dotule",
       "link":"https://xchain.io/asset/BRDLSSCRN",
@@ -686,7 +686,7 @@
    {
       "series":"4",
       "card":"14",
-      "card":"SHIBCOINCARD",
+      "asset":"SHIBCOINCARD",
       "issuance":"120",
       "artist":"SenorPinocchio",
       "link":"https://xchain.io/asset/SHIBCOINCARD",
@@ -695,7 +695,7 @@
    {
       "series":"4",
       "card":"15",
-      "card":"FREETOCHOOSE",
+      "asset":"FREETOCHOOSE",
       "issuance":"300",
       "artist":"Ditacrypto",
       "link":"https://xchain.io/asset/FREETOCHOOSE",
@@ -704,7 +704,7 @@
    {
       "series":"4",
       "card":"16",
-      "card":"ZUGZWANG",
+      "asset":"ZUGZWANG",
       "issuance":"55",
       "artist":"ALG",
       "link":"https://xchain.io/asset/ZUGZWANG",
@@ -713,7 +713,7 @@
    {
       "series":"4",
       "card":"17",
-      "card":"LUNACARD",
+      "asset":"LUNACARD",
       "issuance":"50",
       "artist":"Griffin",
       "link":"https://xchain.io/asset/LUNACARD",
@@ -722,7 +722,7 @@
    {
       "series":"4",
       "card":"18",
-      "card":"COLLABCARD",
+      "asset":"COLLABCARD",
       "issuance":"50",
       "artist":"Rinaldo & Herckeim",
       "link":"https://xchain.io/asset/COLLABCARD",
@@ -731,7 +731,7 @@
    {
       "series":"4",
       "card":"19",
-      "card":"THEHIGHLANDS",
+      "asset":"THEHIGHLANDS",
       "issuance":"77",
       "artist":"Jahair",
       "link":"https://xchain.io/asset/THEHIGHLANDS",
@@ -740,7 +740,7 @@
    {
       "series":"4",
       "card":"20",
-      "card":"FAUXSHIZZLE",
+      "asset":"FAUXSHIZZLE",
       "issuance":"69",
       "artist":"Mallery",
       "link":"https://xchain.io/asset/FAUXSHIZZLE",
@@ -749,7 +749,7 @@
    {
       "series":"4",
       "card":"21",
-      "card":"PARTYSOVER",
+      "asset":"PARTYSOVER",
       "issuance":"3",
       "artist":"Andre-U",
       "link":"https://xchain.io/asset/PARTYSOVER",
@@ -758,7 +758,7 @@
    {
       "series":"5",
       "card":"1",
-      "card":"GNOMERETURNS",
+      "asset":"GNOMERETURNS",
       "issuance":"99",
       "artist":"D Shorty",
       "link":"https://xchain.io/asset/GNOMERETURNS",
@@ -767,7 +767,7 @@
    {
       "series":"5",
       "card":"2",
-      "card":"FAUXGRWLGR",
+      "asset":"FAUXGRWLGR",
       "issuance":"60",
       "artist":"Herckeim",
       "link":"https://xchain.io/asset/FAUXGRWLGR",
@@ -776,7 +776,7 @@
    {
       "series":"5",
       "card":"3",
-      "card":"NANAY",
+      "asset":"NANAY",
       "issuance":"56",
       "artist":"REMSTER",
       "link":"https://xchain.io/asset/NANAY",
@@ -785,7 +785,7 @@
    {
       "series":"5",
       "card":"4",
-      "card":"SOGGENESIS",
+      "asset":"SOGGENESIS",
       "issuance":"300",
       "artist":"ZeroKelvin",
       "link":"https://xchain.io/asset/SOGGENESIS",
@@ -794,7 +794,7 @@
    {
       "series":"5",
       "card":"5",
-      "card":"FAUXBOROMIR",
+      "asset":"FAUXBOROMIR",
       "issuance":"1000",
       "artist":"Psycopyro",
       "link":"https://xchain.io/asset/FAUXBOROMIR",
@@ -803,7 +803,7 @@
    {
       "series":"5",
       "card":"6",
-      "card":"ERMAGHERDCD",
+      "asset":"ERMAGHERDCD",
       "issuance":"1000",
       "artist":"ourEverydayEarth",
       "link":"https://xchain.io/asset/ERMAGHERDCD",
@@ -812,7 +812,7 @@
    {
       "series":"5",
       "card":"7",
-      "card":"SGDANKNESS",
+      "asset":"SGDANKNESS",
       "issuance":"200",
       "artist":"Kevo-b & Doge-Stylee",
       "link":"https://xchain.io/asset/SGDANKNESS",
@@ -821,7 +821,7 @@
    {
       "series":"5",
       "card":"8",
-      "card":"FAUXMOONGA",
+      "asset":"FAUXMOONGA",
       "issuance":"100",
       "artist":"TK",
       "link":"https://xchain.io/asset/FAUXMOONGA",
@@ -830,7 +830,7 @@
    {
       "series":"5",
       "card":"9",
-      "card":"BLACKROCKGLM",
+      "asset":"BLACKROCKGLM",
       "issuance":"99",
       "artist":"BoysClubx",
       "link":"https://xchain.io/asset/BLACKROCKGLM",
@@ -839,7 +839,7 @@
    {
       "series":"5",
       "card":"10",
-      "card":"WHITEAODH",
+      "asset":"WHITEAODH",
       "issuance":"50",
       "artist":"nishseq",
       "link":"https://xchain.io/asset/WHITEAODH",
@@ -848,7 +848,7 @@
    {
       "series":"5",
       "card":"11",
-      "card":"SPELLCASTER",
+      "asset":"SPELLCASTER",
       "issuance":"100",
       "artist":"whatsinaname",
       "link":"https://xchain.io/asset/SPELLCASTER",
@@ -857,7 +857,7 @@
    {
       "series":"5",
       "card":"12",
-      "card":"GENESISQUEST",
+      "asset":"GENESISQUEST",
       "issuance":"55",
       "artist":"wabi",
       "link":"https://xchain.io/asset/GENESISQUEST",
@@ -866,7 +866,7 @@
    {
       "series":"5",
       "card":"13",
-      "card":"CATTAMER",
+      "asset":"CATTAMER",
       "issuance":"100",
       "artist":"kappepe",
       "link":"https://xchain.io/asset/CATTAMER",
@@ -875,7 +875,7 @@
    {
       "series":"5",
       "card":"14",
-      "card":"BOOKOFSOULS",
+      "asset":"BOOKOFSOULS",
       "issuance":"100",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/BOOKOFSOULS",
@@ -884,7 +884,7 @@
    {
       "series":"5",
       "card":"15",
-      "card":"BITGATE",
+      "asset":"BITGATE",
       "issuance":"69",
       "artist":"KAWABANGGA_F",
       "link":"https://xchain.io/asset/BITGATE",
@@ -893,7 +893,7 @@
    {
       "series":"5",
       "card":"16",
-      "card":"DORGENERAL",
+      "asset":"DORGENERAL",
       "issuance":"50",
       "artist":"REMSTER",
       "link":"https://xchain.io/asset/DORGENERAL",
@@ -902,7 +902,7 @@
    {
       "series":"5",
       "card":"17",
-      "card":"TSUKASAFAUX",
+      "asset":"TSUKASAFAUX",
       "issuance":"60",
       "artist":"MAYL & PSYCOPYRO",
       "link":"https://xchain.io/asset/TSUKASAFAUX",
@@ -911,7 +911,7 @@
    {
       "series":"5",
       "card":"18",
-      "card":"PEPEHILL",
+      "asset":"PEPEHILL",
       "issuance":"50",
       "artist":"Andre-U",
       "link":"https://xchain.io/asset/PEPEHILL",
@@ -920,7 +920,7 @@
    {
       "series":"5",
       "card":"19",
-      "card":"DRAGONSFREED",
+      "asset":"DRAGONSFREED",
       "issuance":"100",
       "artist":"M0d3D3b1",
       "link":"https://xchain.io/asset/DRAGONSFREED",
@@ -929,7 +929,7 @@
    {
       "series":"5",
       "card":"20",
-      "card":"FAUXRONIN",
+      "asset":"FAUXRONIN",
       "issuance":"50",
       "artist":"REMSTER",
       "link":"https://xchain.io/asset/FAUXRONIN",
@@ -938,7 +938,7 @@
    {
       "series":"5",
       "card":"21",
-      "card":"FAUXORIGIN",
+      "asset":"FAUXORIGIN",
       "issuance":"9",
       "artist":"Pepe Inside",
       "link":"https://xchain.io/asset/FAUXORIGIN",
@@ -947,7 +947,7 @@
    {
       "series":"6",
       "card":"1",
-      "card":"THEGIFTCARD",
+      "asset":"THEGIFTCARD",
       "issuance":"662",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THEGIFTCARD",
@@ -956,7 +956,7 @@
    {
       "series":"6",
       "card":"2",
-      "card":"FAUXICEDRGN",
+      "asset":"FAUXICEDRGN",
       "issuance":"125",
       "artist":"Mj Rivaldi",
       "link":"https://xchain.io/asset/FAUXICEDRGN",
@@ -965,7 +965,7 @@
    {
       "series":"6",
       "card":"3",
-      "card":"THMRG",
+      "asset":"THMRG",
       "issuance":"100",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THMRG",
@@ -974,7 +974,7 @@
    {
       "series":"6",
       "card":"4",
-      "card":"RUGMANCER",
+      "asset":"RUGMANCER",
       "issuance":"77",
       "artist":"Zossel",
       "link":"https://xchain.io/asset/RUGMANCER",
@@ -983,7 +983,7 @@
    {
       "series":"6",
       "card":"5",
-      "card":"CKANDCORNCD",
+      "asset":"CKANDCORNCD",
       "issuance":"50",
       "artist":"Jonny Johnsonson",
       "link":"https://xchain.io/asset/CKANDCORNCD",
@@ -992,7 +992,7 @@
    {
       "series":"6",
       "card":"6",
-      "card":"FAUXTRADER",
+      "asset":"FAUXTRADER",
       "issuance":"60",
       "artist":"Andre-U",
       "link":"https://xchain.io/asset/FAUXTRADER",
@@ -1001,7 +1001,7 @@
    {
       "series":"6",
       "card":"7",
-      "card":"FAUXATINA",
+      "asset":"FAUXATINA",
       "issuance":"69",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXATINA",
@@ -1010,7 +1010,7 @@
    {
       "series":"6",
       "card":"8",
-      "card":"GROGUCD",
+      "asset":"GROGUCD",
       "issuance":"100",
       "artist":"Bimbayo1985",
       "link":"https://xchain.io/asset/GROGUCD",
@@ -1019,7 +1019,7 @@
    {
       "series":"6",
       "card":"9",
-      "card":"FAUXKNIGHTS",
+      "asset":"FAUXKNIGHTS",
       "issuance":"77",
       "artist":"Psycopyro",
       "link":"https://xchain.io/asset/FAUXKNIGHTS",
@@ -1028,7 +1028,7 @@
    {
       "series":"6",
       "card":"10",
-      "card":"FAUXFLAMEDRG",
+      "asset":"FAUXFLAMEDRG",
       "issuance":"125",
       "artist":"Mj_Rivaldi",
       "link":"https://xchain.io/asset/FAUXFLAMEDRG",
@@ -1037,7 +1037,7 @@
    {
       "series":"6",
       "card":"11",
-      "card":"THELEXICON",
+      "asset":"THELEXICON",
       "issuance":"100",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THELEXICON",
@@ -1046,7 +1046,7 @@
    {
       "series":"6",
       "card":"12",
-      "card":"ONECUBIT",
+      "asset":"ONECUBIT",
       "issuance":"300",
       "artist":"Cornholio the Great",
       "link":"https://xchain.io/asset/ONECUBIT",
@@ -1055,7 +1055,7 @@
    {
       "series":"6",
       "card":"13",
-      "card":"ONEBLOCK",
+      "asset":"ONEBLOCK",
       "issuance":"300",
       "artist":"Cornholio the Great",
       "link":"https://xchain.io/asset/ONEBLOCK",
@@ -1064,7 +1064,7 @@
    {
       "series":"6",
       "card":"14",
-      "card":"SATOSHIBLOCK",
+      "asset":"SATOSHIBLOCK",
       "issuance":"300",
       "artist":"Cornholio the Great",
       "link":"https://xchain.io/asset/SATOSHIBLOCK",
@@ -1073,7 +1073,7 @@
    {
       "series":"6",
       "card":"15",
-      "card":"WIZARDOFSOG",
+      "asset":"WIZARDOFSOG",
       "issuance":"100",
       "artist":"ROCCO",
       "link":"https://xchain.io/asset/WIZARDOFSOG",
@@ -1082,7 +1082,7 @@
    {
       "series":"6",
       "card":"16",
-      "card":"SATOSHISHITE",
+      "asset":"SATOSHISHITE",
       "issuance":"88",
       "artist":"D Shorty",
       "link":"https://xchain.io/asset/SATOSHISHITE",
@@ -1091,7 +1091,7 @@
    {
       "series":"6",
       "card":"17",
-      "card":"FAUXURANUS",
+      "asset":"FAUXURANUS",
       "issuance":"69",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXURANUS",
@@ -1100,7 +1100,7 @@
    {
       "series":"6",
       "card":"18",
-      "card":"FROGBIRTH",
+      "asset":"FROGBIRTH",
       "issuance":"50",
       "artist":"coinking",
       "link":"https://xchain.io/asset/FROGBIRTH",
@@ -1109,7 +1109,7 @@
    {
       "series":"6",
       "card":"19",
-      "card":"FAUXANGELF",
+      "asset":"FAUXANGELF",
       "issuance":"71",
       "artist":"papeto",
       "link":"https://xchain.io/asset/FAUXANGELF",
@@ -1118,7 +1118,7 @@
    {
       "series":"6",
       "card":"20",
-      "card":"FAUXMEDUSA",
+      "asset":"FAUXMEDUSA",
       "issuance":"111",
       "artist":"Andre-U",
       "link":"https://xchain.io/asset/FAUXMEDUSA",
@@ -1127,7 +1127,7 @@
    {
       "series":"6",
       "card":"21",
-      "card":"FAUXHOMER",
+      "asset":"FAUXHOMER",
       "issuance":"18",
       "artist":"Jonny Johnsonson",
       "link":"https://xchain.io/asset/FAUXHOMER",
@@ -1136,7 +1136,7 @@
    {
       "series":"7",
       "card":"1",
-      "card":"THEVALIDATOR",
+      "asset":"THEVALIDATOR",
       "issuance":"100",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THEVALIDATOR",
@@ -1145,7 +1145,7 @@
    {
       "series":"7",
       "card":"2",
-      "card":"FAUXCLAN",
+      "asset":"FAUXCLAN",
       "issuance":"69",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXCLAN",
@@ -1154,7 +1154,7 @@
    {
       "series":"7",
       "card":"3",
-      "card":"FDJCARD",
+      "asset":"FDJCARD",
       "issuance":"50",
       "artist":"Jonny Johnsonson",
       "link":"https://xchain.io/asset/FDJCARD",
@@ -1163,7 +1163,7 @@
    {
       "series":"7",
       "card":"4",
-      "card":"SOGGYSTYLE",
+      "asset":"SOGGYSTYLE",
       "issuance":"600",
       "artist":"Psycopyro",
       "link":"https://xchain.io/asset/SOGGYSTYLE",
@@ -1172,7 +1172,7 @@
    {
       "series":"7",
       "card":"5",
-      "card":"FAUXDARKDRGN",
+      "asset":"FAUXDARKDRGN",
       "issuance":"125",
       "artist":"Mj Rivaldi",
       "link":"https://xchain.io/asset/FAUXDARKDRGN",
@@ -1181,7 +1181,7 @@
    {
       "series":"7",
       "card":"6",
-      "card":"FAUXRYLAKE",
+      "asset":"FAUXRYLAKE",
       "issuance":"80",
       "artist":"Tenshidaisy",
       "link":"https://xchain.io/asset/FAUXRYLAKE",
@@ -1190,7 +1190,7 @@
    {
       "series":"7",
       "card":"7",
-      "card":"SOGHOLDER",
+      "asset":"SOGHOLDER",
       "issuance":"85",
       "artist":"Andre-U",
       "link":"https://xchain.io/asset/SOGHOLDER",
@@ -1199,7 +1199,7 @@
    {
       "series":"7",
       "card":"8",
-      "card":"THSRG",
+      "asset":"THSRG",
       "issuance":"100",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THSRG",
@@ -1208,7 +1208,7 @@
    {
       "series":"7",
       "card":"9",
-      "card":"FAUXANGEL",
+      "asset":"FAUXANGEL",
       "issuance":"100",
       "artist":"TK",
       "link":"https://xchain.io/asset/FAUXANGEL",
@@ -1217,7 +1217,7 @@
    {
       "series":"7",
       "card":"10",
-      "card":"MNSTRKNGHT",
+      "asset":"MNSTRKNGHT",
       "issuance":"60",
       "artist":"AbysVora",
       "link":"https://xchain.io/asset/MNSTRKNGHT",
@@ -1226,7 +1226,7 @@
    {
       "series":"7",
       "card":"11",
-      "card":"FAUXROCKPEEP",
+      "asset":"FAUXROCKPEEP",
       "issuance":"111",
       "artist":"crypto_ic",
       "link":"https://xchain.io/asset/FAUXROCKPEEP",
@@ -1235,7 +1235,7 @@
    {
       "series":"7",
       "card":"12",
-      "card":"FAUXARES",
+      "asset":"FAUXARES",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXARES",
@@ -1244,7 +1244,7 @@
    {
       "series":"7",
       "card":"13",
-      "card":"FAUXORDINALS",
+      "asset":"FAUXORDINALS",
       "issuance":"100",
       "artist":"Crazy Zapped",
       "link":"https://xchain.io/asset/FAUXORDINALS",
@@ -1253,7 +1253,7 @@
    {
       "series":"7",
       "card":"14",
-      "card":"FAUXZOMBIE",
+      "asset":"FAUXZOMBIE",
       "issuance":"55",
       "artist":"AbysVora",
       "link":"https://xchain.io/asset/FAUXZOMBIE",
@@ -1262,7 +1262,7 @@
    {
       "series":"7",
       "card":"15",
-      "card":"FAUXCULT",
+      "asset":"FAUXCULT",
       "issuance":"50",
       "artist":"Jonny Johnsonson",
       "link":"https://xchain.io/asset/FAUXCULT",
@@ -1271,7 +1271,7 @@
    {
       "series":"7",
       "card":"16",
-      "card":"FUAXELECTRON",
+      "asset":"FUAXELECTRON",
       "issuance":"71",
       "artist":"papeto",
       "link":"https://xchain.io/asset/FAUXELECTRON",
@@ -1280,7 +1280,7 @@
    {
       "series":"7",
       "card":"17",
-      "card":"FAUXSHROOM",
+      "asset":"FAUXSHROOM",
       "issuance":"420",
       "artist":"GlenNFT",
       "link":"https://xchain.io/asset/FAUXSHROOM",
@@ -1289,7 +1289,7 @@
    {
       "series":"7",
       "card":"18",
-      "card":"FAUXCHEMIST",
+      "asset":"FAUXCHEMIST",
       "issuance":"50",
       "artist":"drazestan",
       "link":"https://xchain.io/asset/FAUXCHEMIST",
@@ -1298,7 +1298,7 @@
    {
       "series":"7",
       "card":"19",
-      "card":"FAUXHYDRA",
+      "asset":"FAUXHYDRA",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXHYDRA",
@@ -1307,7 +1307,7 @@
    {
       "series":"7",
       "card":"20",
-      "card":"SATOSHECARD",
+      "asset":"SATOSHECARD",
       "issuance":"50",
       "artist":"Jonny Johnsonson",
       "link":"https://xchain.io/asset/SATOSHECARD",
@@ -1316,7 +1316,7 @@
    {
       "series":"7",
       "card":"21",
-      "card":"THEGODCARD",
+      "asset":"THEGODCARD",
       "issuance":"15",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THEGODCARD",
@@ -1325,7 +1325,7 @@
    {
       "series":"8",
       "card":"1",
-      "card":"SHABANAMOTO",
+      "asset":"SHABANAMOTO",
       "issuance":"300",
       "artist":"Danceturn",
       "link":"https://xchain.io/asset/SHABANAMOTO",
@@ -1334,7 +1334,7 @@
    {
       "series":"8",
       "card":"2",
-      "card":"FAUXMINER",
+      "asset":"FAUXMINER",
       "issuance":"60",
       "artist":"pinocchio",
       "link":"https://xchain.io/asset/FAUXMINER",
@@ -1343,7 +1343,7 @@
    {
       "series":"8",
       "card":"3",
-      "card":"FAUXPUNK",
+      "asset":"FAUXPUNK",
       "issuance":"50",
       "artist":"Psycopyro",
       "link":"https://xchain.io/asset/FAUXPUNK",
@@ -1352,7 +1352,7 @@
    {
       "series":"8",
       "card":"4",
-      "card":"FAUXLIGHTDRG",
+      "asset":"FAUXLIGHTDRG",
       "issuance":"125",
       "artist":"Mj Rivaldi",
       "link":"https://xchain.io/asset/FAUXLIGHTDRG",
@@ -1361,7 +1361,7 @@
    {
       "series":"8",
       "card":"5",
-      "card":"FAUXMINOTAUR",
+      "asset":"FAUXMINOTAUR",
       "issuance":"99",
       "artist":"salva",
       "link":"https://xchain.io/asset/FAUXMINOTAUR",
@@ -1370,7 +1370,7 @@
    {
       "series":"8",
       "card":"6",
-      "card":"RARECHARM",
+      "asset":"RARECHARM",
       "issuance":"75",
       "artist":"Jahair",
       "link":"https://xchain.io/asset/RARECHARM",
@@ -1379,7 +1379,7 @@
    {
       "series":"8",
       "card":"7",
-      "card":"FAUXDRACULA",
+      "asset":"FAUXDRACULA",
       "issuance":"60",
       "artist":"AbysVora",
       "link":"https://xchain.io/asset/FAUXDRACULA",
@@ -1388,7 +1388,7 @@
    {
       "series":"8",
       "card":"8",
-      "card":"FAUXCOIN",
+      "asset":"FAUXCOIN",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXCOIN",
@@ -1397,7 +1397,7 @@
    {
       "series":"8",
       "card":"9",
-      "card":"SOGEMPEROR",
+      "asset":"SOGEMPEROR",
       "issuance":"66",
       "artist":"ROCCO",
       "link":"https://xchain.io/asset/SOGEMPEROR",
@@ -1406,7 +1406,7 @@
    {
       "series":"8",
       "card":"10",
-      "card":"FAUXBIDDING",
+      "asset":"FAUXBIDDING",
       "issuance":"100",
       "artist":"Mike In Space",
       "link":"https://xchain.io/asset/FAUXBIDDING",
@@ -1415,7 +1415,7 @@
    {
       "series":"8",
       "card":"11",
-      "card":"FATHEROFDOGE",
+      "asset":"FATHEROFDOGE",
       "issuance":"99",
       "artist":"D Shorty",
       "link":"https://xchain.io/asset/FATHEROFDOGE",
@@ -1424,7 +1424,7 @@
    {
       "series":"8",
       "card":"12",
-      "card":"FAUXCERBERUS",
+      "asset":"FAUXCERBERUS",
       "issuance":"80",
       "artist":"Daisy",
       "link":"https://xchain.io/asset/FAUXCERBERUS",
@@ -1433,7 +1433,7 @@
    {
       "series":"8",
       "card":"13",
-      "card":"WEALTHSPELL",
+      "asset":"WEALTHSPELL",
       "issuance":"52",
       "artist":"Crazy Zapped",
       "link":"https://xchain.io/asset/WEALTHSPELL",
@@ -1442,7 +1442,7 @@
    {
       "series":"8",
       "card":"14",
-      "card":"FAUXAZUKA",
+      "asset":"FAUXAZUKA",
       "issuance":"69",
       "artist":"Andre-U",
       "link":"https://xchain.io/asset/FAUXAZUKA",
@@ -1451,7 +1451,7 @@
    {
       "series":"8",
       "card":"15",
-      "card":"ETHXCPPARTII",
+      "asset":"ETHXCPPARTII",
       "issuance":"50",
       "artist":"Jonny Johnsonson",
       "link":"https://xchain.io/asset/ETHXCPARTII",
@@ -1460,7 +1460,7 @@
    {
       "series":"8",
       "card":"16",
-      "card":"PROOFOFSOG",
+      "asset":"PROOFOFSOG",
       "issuance":"108",
       "artist":"GlenNFT",
       "link":"https://xchain.io/asset/PROOFOFSOG",
@@ -1469,7 +1469,7 @@
    {
       "series":"8",
       "card":"17",
-      "card":"FAUXFRSTDRGN",
+      "asset":"FAUXFRSTDRGN",
       "issuance":"125",
       "artist":"Mj Rivaldi",
       "link":"https://xchain.io/asset/FAUXFRSTDRGN",
@@ -1478,7 +1478,7 @@
    {
       "series":"8",
       "card":"18",
-      "card":"ORDCARD",
+      "asset":"ORDCARD",
       "issuance":"50",
       "artist":"Aishyrine ",
       "link":"https://xchain.io/asset/ORDCARD",
@@ -1487,7 +1487,7 @@
    {
       "series":"8",
       "card":"19",
-      "card":"FAUXKEEPER",
+      "asset":"FAUXKEEPER",
       "issuance":"50",
       "artist":"drazestan",
       "link":"https://xchain.io/asset/FAUXKEEPER",
@@ -1496,7 +1496,7 @@
    {
       "series":"8",
       "card":"20",
-      "card":"FAUXBUILDER",
+      "asset":"FAUXBUILDER",
       "issuance":"69",
       "artist":"papeto",
       "link":"https://xchain.io/asset/FAUXBUILDER",
@@ -1505,7 +1505,7 @@
    {
       "series":"8",
       "card":"21",
-      "card":"FAUXALICE",
+      "asset":"FAUXALICE",
       "issuance":"10",
       "artist":"Psycopyro",
       "link":"https://xchain.io/asset/FAUXALICE",
@@ -1514,7 +1514,7 @@
    {
       "series":"9",
       "card":"1",
-      "card":"FAUXNAKAROCK",
+      "asset":"FAUXNAKAROCK",
       "issuance":"111",
       "artist":"Crypto_ic",
       "link":"https://xchain.io/asset/FAUXNAKAROCK",
@@ -1523,7 +1523,7 @@
    {
       "series":"9",
       "card":"2",
-      "card":"FAUXWATERDRG",
+      "asset":"FAUXWATERDRG",
       "issuance":"125",
       "artist":"MJ Rivaldi",
       "link":"https://xchain.io/asset/FAUXWATERDRG",
@@ -1532,7 +1532,7 @@
    {
       "series":"9",
       "card":"3",
-      "card":"FAUXBEAST",
+      "asset":"FAUXBEAST",
       "issuance":"100",
       "artist":"TK",
       "link":"https://xchain.io/asset/FAUXBEAST",
@@ -1541,7 +1541,7 @@
    {
       "series":"9",
       "card":"4",
-      "card":"FAUXBORGCUBE",
+      "asset":"FAUXBORGCUBE",
       "issuance":"100",
       "artist":"Bimbayo1985",
       "link":"https://xchain.io/asset/FAUXBORGCUBE",
@@ -1550,7 +1550,7 @@
    {
       "series":"9",
       "card":"5",
-      "card":"FAUXJAK",
+      "asset":"FAUXJAK",
       "issuance":"70",
       "artist":"Jonny Johnsonson",
       "link":"https://xchain.io/asset/FAUXJAK",
@@ -1559,7 +1559,7 @@
    {
       "series":"9",
       "card":"6",
-      "card":"FAUXSTAMP",
+      "asset":"FAUXSTAMP",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXSTAMP",
@@ -1568,7 +1568,7 @@
    {
       "series":"9",
       "card":"7",
-      "card":"WEALTHPOT",
+      "asset":"WEALTHPOT",
       "issuance":"100",
       "artist":"Emperor Western",
       "link":"https://xchain.io/asset/WEALTHPOT",
@@ -1577,7 +1577,7 @@
    {
       "series":"9",
       "card":"8",
-      "card":"FAUXLENOX",
+      "asset":"FAUXLENOX",
       "issuance":"50",
       "artist":"drazestan",
       "link":"https://xchain.io/asset/FAUXLENOX",
@@ -1586,7 +1586,7 @@
    {
       "series":"9",
       "card":"9",
-      "card":"MIZUKIFAUX",
+      "asset":"MIZUKIFAUX",
       "issuance":"60",
       "artist":"Psycopyro",
       "link":"https://xchain.io/asset/MIZUKIFAUX",
@@ -1595,7 +1595,7 @@
    {
       "series":"9",
       "card":"10",
-      "card":"FAUXPATH",
+      "asset":"FAUXPATH",
       "issuance":"108",
       "artist":"GlenNFT",
       "link":"https://xchain.io/asset/FAUXPATH",
@@ -1604,7 +1604,7 @@
    {
       "series":"9",
       "card":"11",
-      "card":"BLOCKDEMON",
+      "asset":"BLOCKDEMON",
       "issuance":"60",
       "artist":"Billionmindkev",
       "link":"https://xchain.io/asset/BLOCKDEMON",
@@ -1613,7 +1613,7 @@
    {
       "series":"9",
       "card":"12",
-      "card":"MONKFAUX",
+      "asset":"MONKFAUX",
       "issuance":"50",
       "artist":"ROCCO",
       "link":"https://xchain.io/asset/MONKFAUX",
@@ -1622,7 +1622,7 @@
    {
       "series":"9",
       "card":"13",
-      "card":"FAUXWAR ",
+      "asset":"FAUXWAR ",
       "issuance":"100",
       "artist":"AdeKrypto ",
       "link":"https://xchain.io/asset/FAUXWAR",
@@ -1631,7 +1631,7 @@
    {
       "series":"9",
       "card":"14",
-      "card":"FAUXWARRIOR",
+      "asset":"FAUXWARRIOR",
       "issuance":"100",
       "artist":"TK",
       "link":"https://xchain.io/asset/FAUXWARRIOR",
@@ -1640,7 +1640,7 @@
    {
       "series":"9",
       "card":"15",
-      "card":"GUARDIANGEL",
+      "asset":"GUARDIANGEL",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/GUARDIANGEL",
@@ -1649,7 +1649,7 @@
    {
       "series":"9",
       "card":"16",
-      "card":"FAUXGOLDFISH",
+      "asset":"FAUXGOLDFISH",
       "issuance":"88",
       "artist":"Emperor Western",
       "link":"https://xchain.io/asset/FAUXGOLDFISH",
@@ -1658,7 +1658,7 @@
    {
       "series":"9",
       "card":"17",
-      "card":"KAORIFAUX",
+      "asset":"KAORIFAUX",
       "issuance":"60",
       "artist":"Psycopyro",
       "link":"https://xchain.io/asset/KAORIFAUX",
@@ -1667,7 +1667,7 @@
    {
       "series":"9",
       "card":"18",
-      "card":"FAUXCASEY",
+      "asset":"FAUXCASEY",
       "issuance":"50",
       "artist":"salva",
       "link":"https://xchain.io/asset/FAUXCASEY",
@@ -1676,7 +1676,7 @@
    {
       "series":"9",
       "card":"19",
-      "card":"FAUXWEEDLORD",
+      "asset":"FAUXWEEDLORD",
       "issuance":"50",
       "artist":"Crazy Zapped",
       "link":"https://xchain.io/asset/FAUXWEEDLORD",
@@ -1685,7 +1685,7 @@
    {
       "series":"9",
       "card":"20",
-      "card":"FAUXBOOK",
+      "asset":"FAUXBOOK",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXBOOK",
@@ -1694,7 +1694,7 @@
    {
       "series":"9",
       "card":"21",
-      "card":"CCSATOSHI",
+      "asset":"CCSATOSHI",
       "issuance":"14",
       "artist":"Cornholio the Great",
       "link":"https://xchain.io/asset/CCSATOSHI",
@@ -1703,7 +1703,7 @@
    {
       "series":"10",
       "card":"1",
-      "card":"DESTROYERCD",
+      "asset":"DESTROYERCD",
       "issuance":"70",
       "artist":"Jonny Johnsonson",
       "link":"https://xchain.io/asset/DESTROYERCD",
@@ -1712,7 +1712,7 @@
    {
       "series":"10",
       "card":"2",
-      "card":"BONKSCALL",
+      "asset":"BONKSCALL",
       "issuance":"99",
       "artist":"yourfren",
       "link":"https://xchain.io/asset/BONKSCALL",
@@ -1721,7 +1721,7 @@
    {
       "series":"10",
       "card":"3",
-      "card":"FARMORDINAL",
+      "asset":"FARMORDINAL",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FARMORDINAL",
@@ -1730,7 +1730,7 @@
    {
       "series":"10",
       "card":"4",
-      "card":"PRIMALFAUX",
+      "asset":"PRIMALFAUX",
       "issuance":"69",
       "artist":"Papeto",
       "link":"https://xchain.io/asset/PRIMALFAUX",
@@ -1739,7 +1739,7 @@
    {
       "series":"10",
       "card":"5",
-      "card":"FESTIFAUX",
+      "asset":"FESTIFAUX",
       "issuance":"70",
       "artist":"Emperor Western",
       "link":"https://xchain.io/asset/FESTIFAUX",
@@ -1748,7 +1748,7 @@
    {
       "series":"10",
       "card":"6",
-      "card":"DOLLARPEP",
+      "asset":"DOLLARPEP",
       "issuance":"50",
       "artist":"Andre-U",
       "link":"https://xchain.io/asset/DOLLARPEP",
@@ -1757,7 +1757,7 @@
    {
       "series":"10",
       "card":"7",
-      "card":"FAUXALCHEMY",
+      "asset":"FAUXALCHEMY",
       "issuance":"100",
       "artist":"AdeKrypto ",
       "link":"https://xchain.io/asset/FAUXALCHEMY",
@@ -1766,7 +1766,7 @@
    {
       "series":"10",
       "card":"8",
-      "card":"FAUXPRINCE",
+      "asset":"FAUXPRINCE",
       "issuance":"50",
       "artist":"Blissfulmorg",
       "link":"https://xchain.io/asset/FAUXPRINCE",
@@ -1775,7 +1775,7 @@
    {
       "series":"10",
       "card":"9",
-      "card":"FAUXGAMERS",
+      "asset":"FAUXGAMERS",
       "issuance":"50",
       "artist":"Crypto_ic",
       "link":"https://xchain.io/asset/FAUXGAMERS",
@@ -1784,7 +1784,7 @@
    {
       "series":"10",
       "card":"10",
-      "card":"BITGEMZ",
+      "asset":"BITGEMZ",
       "issuance":"50",
       "artist":"Jonny Johnsonson",
       "link":"https://xchain.io/asset/BITGEMZ",
@@ -1793,7 +1793,7 @@
    {
       "series":"10",
       "card":"11",
-      "card":"FAUXBAZAAR",
+      "asset":"FAUXBAZAAR",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXBAZAAR",
@@ -1802,7 +1802,7 @@
    {
       "series":"10",
       "card":"12",
-      "card":"PHILOSOFAUX",
+      "asset":"PHILOSOFAUX",
       "issuance":"100",
       "artist":"Emperor Western",
       "link":"https://xchain.io/asset/PHILOSOFAUX",
@@ -1811,7 +1811,7 @@
    {
       "series":"10",
       "card":"13",
-      "card":"FAUXSQUIRTLE",
+      "asset":"FAUXSQUIRTLE",
       "issuance":"50",
       "artist":"psycopyro",
       "link":"https://xchain.io/asset/FAUXSQUIRTLE",
@@ -1820,7 +1820,7 @@
    {
       "series":"10",
       "card":"14",
-      "card":"WALKTHEPLANK",
+      "asset":"WALKTHEPLANK",
       "issuance":"50",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/WALKTHEPLANK",
@@ -1829,7 +1829,7 @@
    {
       "series":"10",
       "card":"15",
-      "card":"FAUXGABRIEL",
+      "asset":"FAUXGABRIEL",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXGABRIEL",
@@ -1838,7 +1838,7 @@
    {
       "series":"10",
       "card":"16",
-      "card":"STACKCHAIN",
+      "asset":"STACKCHAIN",
       "issuance":"50",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/STACKCHAIN",
@@ -1847,7 +1847,7 @@
    {
       "series":"10",
       "card":"17",
-      "card":"THECITADEL",
+      "asset":"THECITADEL",
       "issuance":"50",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THECITADEL",
@@ -1856,7 +1856,7 @@
    {
       "series":"10",
       "card":"18",
-      "card":"SHANGHAICARD",
+      "asset":"SHANGHAICARD",
       "issuance":"50",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/SHANGHAICARD",
@@ -1865,7 +1865,7 @@
    {
       "series":"10",
       "card":"19",
-      "card":"LAMBOCORN",
+      "asset":"LAMBOCORN",
       "issuance":"100",
       "artist":"Crypto_ic",
       "link":"https://xchain.io/asset/LAMBOCORN",
@@ -1874,7 +1874,7 @@
    {
       "series":"10",
       "card":"20",
-      "card":"THEFORGE",
+      "asset":"THEFORGE",
       "issuance":"50",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THEFORGE",
@@ -1883,7 +1883,7 @@
    {
       "series":"10",
       "card":"21",
-      "card":"SOGSTIECARD",
+      "asset":"SOGSTIECARD",
       "issuance":"8",
       "artist":"Blissfulmorg",
       "link":"https://xchain.io/asset/SOGSTIECARD",
@@ -1892,7 +1892,7 @@
    {
       "series":"11",
       "card":"1",
-      "card":"FAUXHOSPITAL",
+      "asset":"FAUXHOSPITAL",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXHOSPITAL",
@@ -1901,7 +1901,7 @@
    {
       "series":"11",
       "card":"2",
-      "card":"FAUXATDEPEPE",
+      "asset":"FAUXATDEPEPE",
       "issuance":"50",
       "artist":"Emperor Western ",
       "link":"https://xchain.io/asset/FAUXATDEPEPE",
@@ -1910,7 +1910,7 @@
    {
       "series":"11",
       "card":"3",
-      "card":"FAUXSWORDMAN",
+      "asset":"FAUXSWORDMAN",
       "issuance":"50",
       "artist":"Isaac O",
       "link":"https://xchain.io/asset/FAUXSWORDMAN",
@@ -1919,7 +1919,7 @@
    {
       "series":"11",
       "card":"4",
-      "card":"FAUXROB",
+      "asset":"FAUXROB",
       "issuance":"100",
       "artist":"AdeKrypto ",
       "link":"https://xchain.io/asset/FAUXROB",
@@ -1928,7 +1928,7 @@
    {
       "series":"11",
       "card":"5",
-      "card":"PEPERCIVALFS",
+      "asset":"PEPERCIVALFS",
       "issuance":"100",
       "artist":"DAVEARTNFT",
       "link":"https://xchain.io/asset/PEPERCIVALFS",
@@ -1937,7 +1937,7 @@
    {
       "series":"11",
       "card":"6",
-      "card":"THEFOUNDRY",
+      "asset":"THEFOUNDRY",
       "issuance":"50",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THEFOUNDRY",
@@ -1946,7 +1946,7 @@
    {
       "series":"11",
       "card":"7",
-      "card":"BEARSLAYER",
+      "asset":"BEARSLAYER",
       "issuance":"69",
       "artist":"Andre-U",
       "link":"https://xchain.io/asset/BEARSLAYER",
@@ -1955,7 +1955,7 @@
    {
       "series":"11",
       "card":"8",
-      "card":"MOLOTOV",
+      "asset":"MOLOTOV",
       "issuance":"100",
       "artist":"Crypto_ic",
       "link":"https://xchain.io/asset/MOLOTOV",
@@ -1964,7 +1964,7 @@
    {
       "series":"11",
       "card":"9",
-      "card":"FAUXICITY",
+      "asset":"FAUXICITY",
       "issuance":"50",
       "artist":"Blissfulmorg",
       "link":"https://xchain.io/asset/FAUXICITY",
@@ -1973,7 +1973,7 @@
    {
       "series":"11",
       "card":"10",
-      "card":"FAUXJACK",
+      "asset":"FAUXJACK",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXJACK",
@@ -1982,7 +1982,7 @@
    {
       "series":"11",
       "card":"11",
-      "card":"FAUXKIDUL",
+      "asset":"FAUXKIDUL",
       "issuance":"50",
       "artist":"Drazestan",
       "link":"https://xchain.io/asset/FAUXKIDUL",
@@ -1991,7 +1991,7 @@
    {
       "series":"11",
       "card":"12",
-      "card":"THERUBICON",
+      "asset":"THERUBICON",
       "issuance":"50",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/THERUBICON",
@@ -2000,7 +2000,7 @@
    {
       "series":"11",
       "card":"13",
-      "card":"BAMBII",
+      "asset":"BAMBII",
       "issuance":"50",
       "artist":"Emperor Western",
       "link":"https://xchain.io/asset/BAMBII",
@@ -2009,7 +2009,7 @@
    {
       "series":"11",
       "card":"14",
-      "card":"FAUXSOGSTHOR",
+      "asset":"FAUXSOGSTHOR",
       "issuance":"50",
       "artist":"Blissfulmorg",
       "link":"https://xchain.io/asset/FAUXSOGSTHOR",
@@ -2018,7 +2018,7 @@
    {
       "series":"11",
       "card":"15",
-      "card":"MEDIIFAUX",
+      "asset":"MEDIIFAUX",
       "issuance":"50",
       "artist":"Emperor Western",
       "link":"https://xchain.io/asset/MEDIIFAUX",
@@ -2027,7 +2027,7 @@
    {
       "series":"11",
       "card":"16",
-      "card":"FAUXNUNS",
+      "asset":"FAUXNUNS",
       "issuance":"50",
       "artist":"Robenira",
       "link":"https://xchain.io/asset/FAUXNUNS",
@@ -2036,7 +2036,7 @@
    {
       "series":"11",
       "card":"17",
-      "card":"FAUXBONDTREE",
+      "asset":"FAUXBONDTREE",
       "issuance":"50",
       "artist":"Blissfulmorg",
       "link":"https://xchain.io/asset/FAUXBONDTREE",
@@ -2045,7 +2045,7 @@
    {
       "series":"11",
       "card":"18",
-      "card":"FAUXGATECARD",
+      "asset":"FAUXGATECARD",
       "issuance":"50",
       "artist":"Blissfulmorg",
       "link":"https://xchain.io/asset/FAUXGATECARD",
@@ -2054,7 +2054,7 @@
    {
       "series":"11",
       "card":"19",
-      "card":"FAUXTORIAN",
+      "asset":"FAUXTORIAN",
       "issuance":"200",
       "artist":"AdeKrypto ",
       "link":"https://xchain.io/asset/FAUXTORIAN",
@@ -2063,7 +2063,7 @@
    {
       "series":"11",
       "card":"20",
-      "card":"LIGHTNINTRCH",
+      "asset":"LIGHTNINTRCH",
       "issuance":"50",
       "artist":"M0d3D3b0",
       "link":"https://xchain.io/asset/LIGHTNINTRCH",
@@ -2072,7 +2072,7 @@
    {
       "series":"11",
       "card":"21",
-      "card":"BLOCKI",
+      "asset":"BLOCKI",
       "issuance":"8",
       "artist":"c0rnh0li0",
       "link":"https://xchain.io/asset/BLOCKI",
@@ -2081,7 +2081,7 @@
    {
       "series":"12",
       "card":"1",
-      "card":"JESUSOGS",
+      "asset":"JESUSOGS",
       "issuance":"50",
       "artist":"@artist_isaacO",
       "link":"http://xchain.io/asset/JESUSOGS",
@@ -2090,7 +2090,7 @@
    {
       "series":"12",
       "card":"2",
-      "card":"FAUXAGBE",
+      "asset":"FAUXAGBE",
       "issuance":"50",
       "artist":"@AdeKrypto",
       "link":"http://xchain.io/asset/FAUXAGBE",
@@ -2099,7 +2099,7 @@
    {
       "series":"12",
       "card":"3",
-      "card":"FAUXPUNKSTER",
+      "asset":"FAUXPUNKSTER",
       "issuance":"70",
       "artist":"@Realemperorwestern1",
       "link":"http://xchain.io/asset/FAUXPUNKSTER",
@@ -2108,7 +2108,7 @@
    {
       "series":"12",
       "card":"4",
-      "card":"FAUXMPIRE",
+      "asset":"FAUXMPIRE",
       "issuance":"50",
       "artist":"@Blisfulmorg",
       "link":"http://xchain.io/asset/FAUXMPIRE",
@@ -2117,7 +2117,7 @@
    {
       "series":"12",
       "card":"5",
-      "card":"FAUXCOMBAT",
+      "asset":"FAUXCOMBAT",
       "issuance":"50",
       "artist":"@RAHVOART",
       "link":"http://xchain.io/asset/FAUXCOMBAT",
@@ -2126,7 +2126,7 @@
    {
       "series":"12",
       "card":"6",
-      "card":"RARESOGS",
+      "asset":"RARESOGS",
       "issuance":"50",
       "artist":"@Blisfulmorg",
       "link":"http://xchain.io/asset/RARESOGS",
@@ -2135,7 +2135,7 @@
    {
       "series":"12",
       "card":"7",
-      "card":"FAUXDIPER",
+      "asset":"FAUXDIPER",
       "issuance":"50",
       "artist":"@Robenira",
       "link":"http://xchain.io/asset/FAUXDIPER",
@@ -2144,7 +2144,7 @@
    {
       "series":"12",
       "card":"8",
-      "card":"FAUXLORDOO",
+      "asset":"FAUXLORDOO",
       "issuance":"50",
       "artist":"@Blisfulmorg",
       "link":"http://xchain.io/asset/FAUXLORDOO",
@@ -2153,7 +2153,7 @@
    {
       "series":"12",
       "card":"9",
-      "card":"HASKIANA",
+      "asset":"HASKIANA",
       "issuance":"70",
       "artist":"@Realemperorwestern1",
       "link":"http://xchain.io/asset/HASKIANA",
@@ -2162,7 +2162,7 @@
    {
       "series":"12",
       "card":"10",
-      "card":"FAUXTURTLES",
+      "asset":"FAUXTURTLES",
       "issuance":"50",
       "artist":"@RAHVOART",
       "link":"http://xchain.io/asset/FAUXTURTLES",
@@ -2171,7 +2171,7 @@
    {
       "series":"12",
       "card":"11",
-      "card":"FAUXBTCADICT",
+      "asset":"FAUXBTCADICT",
       "issuance":"50",
       "artist":"@Robenira",
       "link":"http://xchain.io/asset/FAUXBTCADICT",
@@ -2180,7 +2180,7 @@
    {
       "series":"12",
       "card":"12",
-      "card":"DEMOMENT",
+      "asset":"DEMOMENT",
       "issuance":"55",
       "artist":"@Realemperorwestern1",
       "link":"http://xchain.io/asset/DEMOMENT",
@@ -2189,7 +2189,7 @@
    {
       "series":"12",
       "card":"13",
-      "card":"THSCRG",
+      "asset":"THSCRG",
       "issuance":"50",
       "artist":"@modedebo",
       "link":"http://xchain.io/asset/THSCRG",
@@ -2198,7 +2198,7 @@
    {
       "series":"12",
       "card":"14",
-      "card":"FAUXMOTHER",
+      "asset":"FAUXMOTHER",
       "issuance":"70",
       "artist":"@MemeKingArt",
       "link":"http://xchain.io/asset/FAUXMOTHER",
@@ -2207,7 +2207,7 @@
    {
       "series":"12",
       "card":"15",
-      "card":"FAUXSPY",
+      "asset":"FAUXSPY",
       "issuance":"50",
       "artist":"@RAHVOART",
       "link":"https://xchain.io/asset/FAUXSPY",
@@ -2216,7 +2216,7 @@
    {
       "series":"12",
       "card":"16",
-      "card":"ROBOKEKPEPEX",
+      "asset":"ROBOKEKPEPEX",
       "issuance":"50",
       "artist":"br salva",
       "link":"https://xchain.io/asset/ROBOKEKPEPEX",
@@ -2225,11 +2225,10 @@
    {
       "series":"12",
       "card":"17",
-      "card":"REINCOINATE",
+      "asset":"REINCOINATE",
       "issuance":"1000",
       "artist":"c'oinking",
       "link":"http://xchain.io/asset/REINCOINATE",
       "image":"https://i.imgur.com/LQwjynO.png"
    },
 ]
-
