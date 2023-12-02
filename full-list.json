@@ -2249,4 +2249,22 @@
       "link":"https://xchain.io/asset/FAUXGOD",
       "image":"https://arweave.net/msIEz_B_Uw4ElTEwDPkuuySVbbeLSPRF5xVTGcZRfsQ/uqh54c_image.png"
    },
+   {
+      "series":"12",
+      "card":"20",
+      "asset":"COBRA.Hypnotized",
+      "issuance":"100",
+      "artist":"PitooPi",
+      "link":"https://xchain.io/asset/COBRA.hypnotized",
+      "image":"https://modernrelics.io/cards/COBRA_XLxmb.png"
+   },
+   {
+      "series":"12",
+      "card":"21",
+      "asset":"FAUXBASQ",
+      "issuance":"100",
+      "artist":"Robenira",
+      "link":"https://xchain.io/asset/FAUXBASQ",
+      "image":"https://i.imgur.com/xJNWeo3.jpg"
+   },
 ]
