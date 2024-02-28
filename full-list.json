@@ -2299,8 +2299,71 @@
       "card":"4",
       "asset":"FAUXARMOURY",
       "issuance":"50",
-      "artist":"AdeKrypto ",
+      "artist":"AdeKrypto",
       "link":"https://xchain.io/asset/FAUXARMOURY",
       "image":"https://arweave.net/W1Kbv1LgcY5eRk8cas9irq-MrM9T4ND08IP4zZ2nKwI/w6lxhi_image.png"
+   },
+   {
+      "series":"13",
+      "card":"5",
+      "asset":"FAUXKHALEESI",
+      "issuance":"50",
+      "artist":"Robenira",
+      "link":"https://xchain.io/asset/FAUXKHALEESI",
+      "image":"https://arweave.net/1tL6VXWlN6V6KfrEyQoMLeo08YDt1_OKODtxH0j-TeA/2864co_image.jpg"
+   },
+   {
+      "series":"13",
+      "card":"6",
+      "asset":"THALASSIACD",
+      "issuance":"50",
+      "artist":"MODEDEBO",
+      "link":"https://xchain.io/asset/THALASSIACD",
+      "image":"https://arweave.net/602mEVSnvoIhiel0dmZ3jxJKd_DvJ12SduIB9nKfYHU/8m4cmj_image.png"
+   },
+   {
+      "series":"13",
+      "card":"7",
+      "asset":"FAUXISLAND",
+      "issuance":"55",
+      "artist":"Emperor Western",
+      "link":"https://xchain.io/asset/FAUXISLAND",
+      "image":"https://i.imgur.com/3lzvQkY.jpg"
+   },
+   {
+      "series":"13",
+      "card":"8",
+      "asset":"THVRG",
+      "issuance":"50",
+      "artist":"MODEDEBO",
+      "link":"https://xchain.io/asset/THVRG",
+      "image":"https://arweave.net/HOyicI9c4nrF2l_jv1aDagXcxJ9P7YO1yd1gYFhW5Bs/hseudq_image.gif"
+   },
+   {
+      "series":"13",
+      "card":"9",
+      "asset":"FAUXTORTURE",
+      "issuance":"50",
+      "artist":"Robenira",
+      "link":"https://xchain.io/asset/FAUXTORTURE",
+      "image":"https://i.imgur.com/IZnq3RY.jpeg"
+   },
+   {
+      "series":"13",
+      "card":"10",
+      "asset":"SOGSAMARITAN",
+      "issuance":"50",
+      "artist":"RAHVO",
+      "link":"https://xchain.io/asset/SOGSAMARITAN",
+      "image":"https://arweave.net/TK4NmL-9uhbrvnusVKGtUhIp54BcTd5YEwcHn4zYubM/camcvy_image.png"
+   },
+   {
+      "series":"13",
+      "card":"11",
+      "asset":"BITRAILSCD",
+      "issuance":"50",
+      "artist":"pinocchio",
+      "link":"https://xchain.io/asset/BITRAILSCD",
+      "image":"https://bafybeigzgp6lspncbk5mwztbyz4kfwa2tow63zrucamehmzkek5lkq5tei.ipfs.w3s.link/BITRAILSCD.png"
    },
 ]
