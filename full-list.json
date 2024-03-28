@@ -2366,4 +2366,13 @@
       "link":"https://xchain.io/asset/BITRAILSCD",
       "image":"https://bafybeigzgp6lspncbk5mwztbyz4kfwa2tow63zrucamehmzkek5lkq5tei.ipfs.w3s.link/BITRAILSCD.png"
    },
+      {
+      "series":"13",
+      "card":"12",
+      "asset":"THEBEHEMOTH",
+      "issuance":"50",
+      "artist":"MODEDEBO",
+      "link":"https://xchain.io/asset/THEBEHEMOTH",
+      "image":"https://arweave.net/PdF_vJ1buhggzXD7qCk8gceUqWb3arJzEcx0Pgl8Tv0/96elha_image.png"
+   },
 ]
