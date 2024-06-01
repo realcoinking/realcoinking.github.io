@@ -2402,4 +2402,22 @@
       "link":"https://xchain.io/asset/GENESIX",
       "image":"https://arweave.net/qGE8PbOWocyZiEekFNeBG3NGXOQb42E7NWbht0Ca9Tw/o6mwr5_image.png"
    },
+                  {
+      "series":"13",
+      "card":"16",
+      "asset":"FAUXFRIENDS",
+      "issuance":"70",
+      "artist":"Emperor Western",
+      "link":"https://xchain.io/asset/FAUXFRIENDS",
+      "image":"https://i.imgur.com/JZ0E0oX.jpg"
+   },
+                  {
+      "series":"13",
+      "card":"17",
+      "asset":"FAUXRABTLORD",
+      "issuance":"69",
+      "artist":"Robenira",
+      "link":"https://xchain.io/asset/FAUXRABTLORD",
+      "image":"https://i.imgur.com/GRs58Y0.jpg"
+   },
 ]
