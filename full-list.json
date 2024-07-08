@@ -2420,4 +2420,40 @@
       "link":"https://xchain.io/asset/FAUXRABTLORD",
       "image":"https://i.imgur.com/GRs58Y0.jpg"
    },
+                     {
+      "series":"13",
+      "card":"18",
+      "asset":"SOGUNICRON",
+      "issuance":"50",
+      "artist":"RAHVO",
+      "link":"https://xchain.io/asset/SOGUNICRON",
+      "image":"https://arweave.net/KrE5tRqk_1DbPa3ER1MILLHJnTMub1w3yruSzCneFy8/jkl9gl_image.png"
+   },
+                        {
+      "series":"13",
+      "card":"19",
+      "asset":"FAUXCORNFUR",
+      "issuance":"69",
+      "artist":"Robenira",
+      "link":"https://xchain.io/asset/FAUXCORNFUR",
+      "image":"https://i.imgur.com/jfpIsPJ.jpeg"
+   },
+                        {
+      "series":"13",
+      "card":"20",
+      "asset":"FAUXNINJA",
+      "issuance":"50",
+      "artist":"BLISSFULMORG",
+      "link":"https://xchain.io/asset/FAUXNINJA",
+      "image":"https://arweave.net/n_rcTqlN6sFizHNx_qcLbQKYF7YQME7jvTVTT2on6Q4/uhy6d5_image.png"
+   },
+                        {
+      "series":"13",
+      "card":"21",
+      "asset":"ICEDUNICORN",
+      "issuance":"10",
+      "artist":"pinocchio",
+      "link":"https://xchain.io/asset/ICEDUNICORN",
+      "image":"https://raw.githubusercontent.com/tp-7/Gallery/main/ICEDUNICORN.png"
+   },
 ]
