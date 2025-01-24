@@ -1,14 +1,15 @@
 {
-  "asset": "REINCOINATE",            // Your Counterparty asset name
-  "info": {
-    "title": "REINCOINATE",
-    "description": "S12 C17 of FAUX SOGS",
-    // Where your image(s) is stored; must be publicly viewable
-    "image": "https://arweave.net/0ANNlBCl5P6UULe_-Q_0W6qxsc9GID8uOAvZhoXCVog/xz59ck_thumb.png",
-    "image_large": "https://arweave.net/KDxOeiLhjTK5M5ApGqvsZqjV8JE8o1qqzU5FzFsag_g/xz59ck_image.jpg",
-    
-    // Optionally add more data like author, website, etc.
-    "website": "FAUXSOGS.WTF",
-    "author": "c/'oinking"
-  }
+  "success": true,
+  "asset": "REINCOINATE",
+  "image": "https://arweave.net/0ANNlBCl5P6UULe_-Q_0W6qxsc9GID8uOAvZhoXCVog/xz59ck_thumb.png",
+  "description": "S12 C17 FAUX SOGS",
+  "website": "https://FAUXSOGS.wtf",
+  "image_title": "REINCOINATE",
+  "pgpsig": "c\'oinking",
+  "category": "",
+  "subcategory": "",
+  "category_custom": "",
+  "name": "REINCOINATE",
+  "website_social_twitter": "https://twitter.com/fauxsogs",
+  "image_large": "https://arweave.net/KDxOeiLhjTK5M5ApGqvsZqjV8JE8o1qqzU5FzFsag_g/xz59ck_image.jpg"
 }
