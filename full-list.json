@@ -2456,4 +2456,67 @@
       "link":"https://xchain.io/asset/ICEDUNICORN",
       "image":"https://raw.githubusercontent.com/tp-7/Gallery/main/ICEDUNICORN.png"
    },
+   {
+    "series": "14",
+    "card": "1",
+    "asset": "MEDICUS",
+    "issuance": "50",
+    "artist": "AdeKrypto | Abysvora",
+    "link": "https://tokenscan.io/asset/MEDICUS",
+    "image": "https://arweave.net/Ocud8YuiqHydT_jrjlNW24nFWiuqIAqg43ueTGSrUC0/antn5r_image.png"
+  },
+  {
+    "series": "14",
+    "card": "2",
+    "asset": "BOBOSDOCTOR",
+    "issuance": "99",
+    "artist": "BLISSFULMORG",
+    "link": "https://xchain.io/asset/BOBOSDOCTOR",
+    "image": "https://arweave.net/kJzKYjnAmrsu6BjuJgLN3p6b-ivVgR3oMD8difXGO1g/v1vebq_image.png"
+  },
+  {
+    "series": "14",
+    "card": "3",
+    "asset": "FAUXMARKET",
+    "issuance": "110",
+    "artist": "RAHVO",
+    "link": "https://tokenscan.io/asset/FAUXMARKET",
+    "image": "https://arweave.net/nHNmByMYiHrypNMnz0CegpOf3JXtaL69qBedxg7f9Dc/ti6u7n_image.png"
+  },
+  {
+    "series": "14",
+    "card": "4",
+    "asset": "FAUXTERROR",
+    "issuance": "50",
+    "artist": "AbysVora",
+    "link": "https://xchain.io/asset/FAUXTERROR",
+    "image": "https://arweave.net/xVmZDH0eL5_1lBiFrlpztfr3FVyl1LcinR39gLnUeUg/kqvl57_image.png"
+  },
+  {
+    "series": "14",
+    "card": "5",
+    "asset": "FAUXCLOWN",
+    "issuance": "50",
+    "artist": "AbysVora",
+    "link": "https://xchain.io/asset/FAUXCLOWN",
+    "image": "https://arweave.net/S5p0qS-AGJEK06AQxYgBKJuY04ppvGUcOMlxuquTpo0/jjtkwr_image.png"
+  },
+  {
+    "series": "14",
+    "card": "6",
+    "asset": "FAUXNAKA",
+    "issuance": "50",
+    "artist": "Papeto",
+    "link": "https://tokenscan.io/asset/FAUXNAKA",
+    "image": "https://arweave.net/TCwsWUeGAdLp_Q6AJMhXRIoP01kTCvN5APWA_n1rAeU/rxpg7z_image.jpg"
+  },
+  {
+    "series": "14",
+    "card": "7",
+    "asset": "GANJAFAUX",
+    "issuance": "70",
+    "artist": "Emperor Western",
+    "link": "https://tokenscan.io/asset/GANJAFAUX",
+    "image": "https://arweave.net/X5_LIV5ge9g71nk5G53K9QlgJ5B3p50Y18X848yyIUc/1wmlml_image.jpg"
+  }
 ]
