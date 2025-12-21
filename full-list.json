@@ -2617,5 +2617,32 @@
     "artist": "c'oinking",
     "link": "https://tokenscan.io/asset/OWLCOIN",
     "image": "https://arweave.net/mM0eEyNS3x9iXE-1XJzRHbdrOFKLkLoye3GmK4WIjrg/5zjyse_image.png"
+  },
+  {
+    "series": "14",
+    "card": "19",
+    "asset": "PERIGEE",
+    "issuance": "311",
+    "artist": "Cornholio the Great",
+    "link": "https://tokenscan.io/asset/PERIGEE",
+    "image": "https://arweave.net/DjX3rD2Z3RHCtIJFpCxNoCDDwCBq4_DTrjGKyWv-Cz0/c7xktt_image.png"
+  },
+  {
+    "series": "14",
+    "card": "20",
+    "asset": "CULTOFTHEV",
+    "issuance": "55",
+    "artist": "RAHVO",
+    "link": "https://tokenscan.io/asset/CULTOFTHEV",
+    "image": "https://arweave.net/Ww_-nNcWTXBE8CnzmRVhJtcMb50sMQcUqT2Rzxkqus4/k3vvh2_image.png"
+  },
+  {
+    "series": "14",
+    "card": "21",
+    "asset": "SANTAFAUX",
+    "issuance": "8",
+    "artist": "Emperor Western",
+    "link": "https://tokenscan.io/asset/SANTAFAUX",
+    "image": "https://i.imgur.com/baXnkUO.jpeg"
   }
 ]
