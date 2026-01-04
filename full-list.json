@@ -2644,5 +2644,41 @@
     "artist": "Emperor Western",
     "link": "https://tokenscan.io/asset/SANTAFAUX",
     "image": "https://i.imgur.com/baXnkUO.jpeg"
+  },
+  {
+    "series": "15",
+    "card": "1",
+    "asset": "NNNFAUX",
+    "issuance": "100",
+    "artist": "Emperor Western",
+    "link": "https://tokenscan.io/asset/NNNFAUX",
+    "image": "https://arweave.net/sUh2SyNSCzcm1Z4dNO6tykvDH1fH7eceWVp7eMrCuUo/58udrn_image.jpg"
+  },
+     {
+    "series": "15",
+    "card": "2",
+    "asset": "FAUXAI",
+    "issuance": "69",
+    "artist": "Robenira",
+    "link": "https://tokenscan.io/asset/FAUXAI",
+    "image": "https://arweave.net/aXwHljcs-gTkCvwFqZKnkFWOzSJD729M78XIlpbA7t0/es18jn_image.jpg"
+  },
+  {
+    "series": "15",
+    "card": "3",
+    "asset": "DANKHUNTERS",
+    "issuance": "169",
+    "artist": "AdeKrypto | OTIM",
+    "link": "https://tokenscan.io/asset/DANKHUNTERS",
+    "image": "https://arweave.net/L3L5QpbL77MtYBEKRawsgOvXks5dvb2fuI7ScLTalAU/704pt7_image.png"
+  },
+  {
+    "series": "15",
+    "card": "4",
+    "asset": "CULTOFTHEV",
+    "issuance": "55",
+    "artist": "RAHVO",
+    "link": "https://tokenscan.io/asset/CULTOFTHEV",
+    "image": "https://arweave.net/Ww_-nNcWTXBE8CnzmRVhJtcMb50sMQcUqT2Rzxkqus4/k3vvh2_image.png"
   }
 ]
